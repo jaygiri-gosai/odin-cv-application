@@ -99,14 +99,6 @@ This project helped reinforce fundamental React concepts including:
 - Component architecture
 - React application structure
 
-## Future Improvements
-
-- Add multiple education entries
-- Add multiple work experience entries
-- Export CV as PDF
-- Improve responsive design
-- Add form persistence using local storage
-
 ## Acknowledgements
 
 This project was completed as part of The Odin Project React curriculum.
