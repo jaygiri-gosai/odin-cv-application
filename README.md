@@ -88,14 +88,6 @@ Start the development server:
 npm run dev
 ```
 
-## Live Demo
-
-Add your deployment URL here.
-
-## Screenshots
-
-Add screenshots of the application here.
-
 ## Learning Outcomes
 
 This project helped reinforce fundamental React concepts including:
